@@ -1,2 +1,2 @@
 # Way2
-Way 2 Python&Pyqt
+# Way 2 Python&Pyqt
