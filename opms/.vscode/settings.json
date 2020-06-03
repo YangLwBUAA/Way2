@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Download\\CodeProjects\\PythonProjects\\opms\\.venv\\Scripts\\python.exe",
+    "python.formatting.provider": "yapf",
+}
