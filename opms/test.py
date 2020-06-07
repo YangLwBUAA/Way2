@@ -9,16 +9,16 @@
 '''
 # Start typing your code from here
 
+'''def a():
+    '这是文档字符串'
+    pass
 
-print('hello world')
-for i in range(10):
-    print(i+1)
+print(a.__doc__)
+'''
 
+import numpy as np
 
-print('hello world')
-for i in range(10):
-    print(i+1)
-
+print(np.eye(3))
 
 
 
